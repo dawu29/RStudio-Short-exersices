@@ -1,3 +1,3 @@
 # RStudio-Short-exersices
 
-This is a record keeping for short RStudio exersices on data
+This is a record keeping for RStudio exersices on data sets
