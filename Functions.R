@@ -1,5 +1,5 @@
 library(tidyverse)
-dfiles <- dir("Lab10Data",full.names=TRUE)
+dfiles <- dir("Data",full.names=TRUE)
 dfiles
 # 1. Read the first datafile into a tibble named ex_data. Change the name of the res column to experiment1,
 # by manipulating the names attribute of ex_data. That is, use names(ex_data)[2] <- "experiment1".
