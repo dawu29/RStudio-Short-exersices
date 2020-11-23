@@ -42,8 +42,7 @@ top_dep_delay
 
 flights %>% group_by(year, month, day)
 
-?summarize()
-?median()
+
 
 
 
